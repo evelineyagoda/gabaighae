@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aequiemaa.haiarc.site/sitemap.xml
